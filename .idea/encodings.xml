@@ -3,7 +3,7 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-16">
     <file url="file://$PROJECT_DIR$/src/bcorp/Main.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/bcorp/Scanner.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/bcorp/tables/TableError.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/bcorp/tables/TableErrors.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/bcorp/tables/TableTokens.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/bcorp/tables/Token.java" charset="UTF-16" />
     <file url="PROJECT" charset="UTF-16" />

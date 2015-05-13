@@ -2,6 +2,7 @@
   <dictionary name="Maxim">
     <words>
       <w>blockfloat</w>
+      <w>dword</w>
       <w>endp</w>
     </words>
   </dictionary>

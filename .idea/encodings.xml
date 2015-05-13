@@ -3,6 +3,7 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-16">
     <file url="file://$PROJECT_DIR$/src/Compiler/Main.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/Compiler/Scanner.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Compiler/example.asm" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/Compiler/tables/TableErrors.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/Compiler/tables/TableTokens.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/Compiler/tables/Token.java" charset="UTF-16" />

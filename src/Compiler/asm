@@ -18,9 +18,9 @@ PROC1   PROC
 		_Z       EQU     [EBP + 40]
 		_F       EQU     [EBP + 44]
 
-		; X = Y + X
-		MOV     EAX, DWORD PTR _Y
-		ADD     EAX, DWORD PTR _X
+		; X = Z + Y
+		MOV     EAX, DWORD PTR _Z
+		ADD     EAX, DWORD PTR _Y
 		MOV     ESI, DWORD PTR _X
 		MOV     DWORD PTR [ESI], EAX
 
